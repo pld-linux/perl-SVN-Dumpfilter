@@ -4,7 +4,6 @@
 
 %define	pdir	SVN
 %define	pnam	Dumpfilter
-%include	/usr/lib/rpm/macros.perl
 Summary:	SVN::Dumpfilter - Perl extension to filter Subversion dumpfiles
 Name:		perl-SVN-Dumpfilter
 Version:	0.21
